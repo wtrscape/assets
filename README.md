@@ -1,14 +1,20 @@
 # assets
 
-Design tokens and assets for the Waterscape Design System.
+This document contains the rules for our visual communication system. Follow these rules strictly to maintain brand consistency. This includes all the elements you may need logos, typefaces, colors, and more.
 
 ## Logo
+
+The logo consists of a symbol and a typeface. When the width is much greater than the height (form-strip), the logo below is preferred.
 
 <img alt="logos" title="logos" src="https://github.com/wtrscape/assets/blob/main/documents/images/logos.svg" width="100%">
 
 ## Colors
 
-<img align="center" alt="colors palette" title="colors palette" src="https://github.com/wtrscape/assets/blob/main/documents/images/colors.svg" width="760px">
+The core palette will cover the majority of your needs. It’s intentionally small in variety to not dilute the brand visuals, which avoiding confusion.
+
+<img alt="colors palette" title="colors palette" src="https://github.com/wtrscape/assets/blob/main/documents/images/colors.svg" width="760px">
+
+Use Royal blue to highlight things of importance, i.e. illustration and UI Screens.
 
 ## License
 
