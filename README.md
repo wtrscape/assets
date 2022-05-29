@@ -8,11 +8,7 @@ Design tokens and assets for the Waterscape Design System.
 
 ## Colors
 
-<img alt="colors" title="colors" src="https://github.com/wtrscape/assets/blob/main/documents/images/enumeration.svg" width="100%">
-
-## Colors palette
-
-<img alt="colors palette" title="colors palette" src="https://github.com/wtrscape/assets/blob/main/documents/images/colors.svg" width="100%">
+<img alt="colors palette" title="colors palette" src="https://github.com/wtrscape/assets/blob/main/documents/images/colors.svg" width="75%">
 
 ## License
 
