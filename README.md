@@ -12,7 +12,9 @@ The logo consists of a symbol and a typeface. When the width is much greater tha
 
 The core palette will cover the majority of your needs. It’s intentionally small in variety to not dilute the brand visuals, which avoiding confusion.
 
-<img alt="colors palette" title="colors palette" src="https://github.com/wtrscape/assets/blob/main/documents/images/colors.svg" width="760px">
+&nbsp;
+<img alt="colors palette" title="colors palette" src="https://github.com/wtrscape/assets/blob/main/documents/images/colors.svg" width="100%">
+&nbsp;
 
 Use Royal blue to highlight things of importance, i.e. illustration and UI Screens.
 
