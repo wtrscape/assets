@@ -1,6 +1,6 @@
 # assets
 
-This document contains the rules for our visual communication system.
+This repository contains the rules for our visual communication system.
 
 ## Logo
 
