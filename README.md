@@ -1,6 +1,6 @@
 # assets
 
-This document contains the rules for our visual communication system. Follow these rules strictly to maintain brand consistency. This includes all the elements you may need logos, typefaces, colors, and more.
+This document contains the rules for our visual communication system.
 
 ## Logo
 
